@@ -129,4 +129,4 @@
     "supertest": "~0.15.0",
     "vinyl-source-stream": "^1.1.0"
   }
-}
+} // hactoberfest
