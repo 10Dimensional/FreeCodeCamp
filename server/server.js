@@ -40,7 +40,7 @@ boot(app, {
   appRootDir: __dirname,
   dev: process.env.NODE_ENV
 });
-
+// please add user input
 
 passportConfigurator.setupModels({
   userModel: app.models.user,
